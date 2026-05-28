@@ -1,5 +1,5 @@
-# Installs Streamlit web framework and the Google GenAI library
 !pip install streamlit google-genai requests -q
+!npm install -g localtunnel
 
 # Installs localtunnel globally via Node (required to view the website)
 !npm install -g localtunnel
